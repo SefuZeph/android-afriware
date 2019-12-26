@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">android-afriware</string>
+    <string name="afriware">AfriWare</string>
+    <string name="kitenge_and_ankara_fashion">Kitenge and Ankara Fashion</string>
 </resources>
